@@ -1,0 +1,48 @@
+WordPress
+
+WordPress adalah sistem manajemen konten (CMS) yang bisa digunakan untuk membuat dan mengelola website atau blog.
+Sistem WordPress berjalan menggunakan PHP dan database MySQL atau MariaDB. 
+WordPress dibuat oleh Matt Mullenweg dan Mike Little pada tahun 2003.
+
+WordPress hanyalah sebuah script atau code program.
+Dapat didownload di WordPress.org
+
+Agar script dapat berjalan,maka diperlukan
+ -Hosting
+ -Domain
+
+Penyedia hosting dan domain;
+-Gratisan
+-Wordpress.com
+
+Perbedaan WordPress.org dan WordPress.com
+-Wordpress.org
+  -plugin bebas
+  -tema bebas
+  -kostumasi bebas
+-WordPress.com
+  -plugin terbatas
+  -tema terbatas
+  -kostumasi terbatas
+
+Website yang bisa dibuat di WordPress
+-Blog
+-Website portofolio
+-Website Bisnis
+-Website untuk acara amal
+-Website toko online
+
+Kelebihan dan kekurangan WordPress
+a)Kelebihan
+  -Biaya rendah
+  -kemudahan setup dan update
+  -gampang dikelola
+  -desain yang dapat disesuaikan
+  -penambahan fungsi
+  -komunitas yang besar
+  -open-source
+b)Kekurangan
+  -keamanan yang rendah
+  -konten dari layanan pihak ketiga
+  -waktu loading
+
